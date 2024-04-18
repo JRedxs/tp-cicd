@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "CI/CD rocks! Jenkins!" );
+        System.out.println( "CI/CD rocks! Jenkins! Release TOP" );
     }
 }
